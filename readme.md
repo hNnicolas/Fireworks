@@ -51,9 +51,6 @@ Le projet **Firework** vous plonge dans une scène de coucher de soleil réalist
 
 1. **Téléchargez le projet** :
    
-   Ou clonez ce dépôt sur votre machine locale.
-   ```bash
-   git clone https://github.com/hNnicolas/Fireworks.git
 2. **Installez les dépendances** :  
    Ouvrez un terminal dans le répertoire du projet et exécutez :  
    ```bash
